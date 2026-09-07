@@ -1,0 +1,5 @@
+fn main(){
+	println!("Welcome to CSC 101!");
+	let mut name = "zikora";
+	println!("{}",name);
+}
